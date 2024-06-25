@@ -1,0 +1,40 @@
+Food Delivery Cost and Profitability Analysis
+
+
+Direct Expenses:
+
+Delivery Fees
+Packaging
+
+Indirect Expenses:
+
+Discount Offered
+Commission fees (paid by restaurants)
+
+
+Operation: Cost against the revenue generated (primarily through order values and commission fees)
+
+
+The analysis aims to provide insights into how profitable the food delivery service is on a per-order basis.
+
+Process:
+
+Data Related:
+
+- Gather Comprehensive Data Related
+- Clean the dataset
+- Extract or Create relevant features that could impact cost and profitability
+
+
+
+Objective Related:
+
+-Break down the cost associated with each order like: fixed costs (like packaging) and variable costs(delivery fees and discounts)
+
+- Determine the revenue generated from each order, focusing on commission fees and the order value before discounts. 
+
+-Analyze the distribution of profitability across all orders to identify trends
+
+-Develop Strategic recommendations aimed at enhancing profitability
+
+-Simulate the financial impact of proposed changes, such as adjusting discount or commission rates.
